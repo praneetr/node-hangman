@@ -1,0 +1,22 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "Node_Hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praneetr/node-hangman.git"
+  },
+  "author": "praneet row <praneet_row@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praneetr/node-hangman/issues"
+  },
+  "homepage": "https://github.com/praneetr/node-hangman#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
